@@ -1,0 +1,33 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qme4W23MB7mL9S7pxP4t2gS9H5LVPtPjxLCKBnGkTjBSEw/880.png",
+    "description": "[Created by f00d4tehg0dz](https://opensea.io/f00d4tehg0dz)",
+    "external": "https://curiousaxolotlnft.com",
+    "tokenId": 880,
+    "name": "Curious Axolotl 880",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Headband"
+        }
+    ]
+}

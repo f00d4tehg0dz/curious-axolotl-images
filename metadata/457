@@ -1,0 +1,33 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qme4W23MB7mL9S7pxP4t2gS9H5LVPtPjxLCKBnGkTjBSEw/457.png",
+    "description": "[Created by f00d4tehg0dz](https://opensea.io/f00d4tehg0dz)",
+    "external": "https://curiousaxolotlnft.com",
+    "tokenId": 457,
+    "name": "Curious Axolotl 457",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "White"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fez"
+        }
+    ]
+}

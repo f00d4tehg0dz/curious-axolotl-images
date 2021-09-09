@@ -1,0 +1,33 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qme4W23MB7mL9S7pxP4t2gS9H5LVPtPjxLCKBnGkTjBSEw/54.png",
+    "description": "[Created by f00d4tehg0dz](https://opensea.io/f00d4tehg0dz)",
+    "external": "https://curiousaxolotlnft.com",
+    "tokenId": 54,
+    "name": "Curious Axolotl 54",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        }
+    ]
+}
